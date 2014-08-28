@@ -3,4 +3,8 @@ connections-sabah
 
 Inspired by connections.my
 
-###### MIT-License
+## v1
+![v1](screenshot-v1.png)
+
+## License
+MIT
