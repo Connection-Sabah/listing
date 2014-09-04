@@ -7,8 +7,9 @@ a { color:#333333; }
 a:hover { color:#F5362F; text-decoration:none; background-color:#fff; }
 ul li { padding:0; margin:0; }
 ul li a { display:block; padding:7px; border-bottom:1px solid #f8f8f8;}
-.page-header { color:#F5362F; padding:0; margin:0; border:none; }
-.page-header b { color:#cecece; font-weight:normal; }
-.page-header span { color:#0484D6; }
+.page-header {  padding:0; margin:0; border:none; }
+.page-header h1 { font-weight:400; color:#F5362F; }
+.page-header h1 b { color:#666666; padding:0 2px; font-weight:normal; }
+.page-header h1 span { color:#0484D6; }
 ul.events a span { color:#999999; padding-right:15px; }
 ul.events a:hover span { color:#555555; }
