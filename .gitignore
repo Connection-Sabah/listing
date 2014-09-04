@@ -1,0 +1,37 @@
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Komodo Edit/IDE
+*.komodoproject
+*.komodotools
+
+# OS/IDEs
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+
+# Folders/Files to ignore
+build.*
+*.hg
+*.svn
+*.CVS
+*.idea
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.bak
