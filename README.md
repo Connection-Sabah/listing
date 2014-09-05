@@ -1,7 +1,7 @@
 connections-sabah
 =================
 
-Inspired by connections.my
+Inspired by connections.my and connections.sg
 
 ![screenshot](screenshot.png)
 
