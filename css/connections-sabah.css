@@ -1,5 +1,5 @@
 /* CSS for connections.sabah */
-body { background-color:#f9f9f9; font:normal 1.3em 'Droid Sans', sans-serif; color:#333333; }
+body { background-color:#f9f9f9; font:normal 1.4em 'Droid Sans', sans-serif; color:#333333; }
 p { line-height: 1.8em; padding:0 7px; }
 h1 { letter-spacing:-2px; font-weight:700; }
 h3 { color:#0484D6; font-size:1.3em; font-weight:500; letter-spacing:-1px; border-bottom:1px solid #dfdfdf; padding-bottom:5px; }
@@ -13,3 +13,4 @@ ul li a { display:block; padding:7px; border-bottom:1px solid #f8f8f8;}
 .page-header h1 span { color:#0484D6; }
 ul.events a span { color:#999999; padding-right:15px; }
 ul.events a:hover span { color:#555555; }
+.btn { background-color:#fefefe; font-weight:700; }
