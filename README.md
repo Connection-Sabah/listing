@@ -1,9 +1,23 @@
-connections-sabah
-=================
+connect.sabah.io
+================
+
+<pre>
+One Website to list them all, One Website to find them,
+One Website to bring them all and in the Internet bind them"
+</pre>
 
 Inspired by connections.my and connections.sg
 
-![screenshot](screenshot.png)
+Pull Requests 101
+=================
+
+To edit or propose a change to the listing, you must first login into GitHub. 
+
+Then, issue a pull request by editing https://github.com/Connection-Sabah/listing/blob/gh-pages/index.html
+
+To edit the file, click on the little pencil icon on the top-right corner of the code viewer.
+
+Changes are reviewed first before being merged into the trunk code.
 
 ## The MIT License (MIT)
 
