@@ -3,7 +3,7 @@ connect.sabah.io
 
 <pre>
 One Website to list them all, One Website to find them,
-One Website to bring them all and in the Internet bind them"
+One Website to bring them all and in the Internet bind them
 </pre>
 
 Inspired by connections.my and connections.sg
