@@ -16,7 +16,7 @@ ul li span { color: gray; }
 .page-header h1 b { color:#666666; padding:0 2px; font-weight:normal; }
 .page-header h1 span { color:#0484D6; }
 
-ul.events a span { color:#999999; padding-right:15px; }
+ul.events a span { color:#999999; padding:0 15px 0 0; border:none; width:160px; }
 ul.events a:hover span { color:#555555; }
 
 .btn { background-color:#fefefe; font-weight:700; }
