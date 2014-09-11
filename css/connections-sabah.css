@@ -6,9 +6,31 @@ h3 { color:#0484D6; font-size:1.3em; font-weight:500; letter-spacing:-1px; borde
 a { color:#333333; }
 a:hover { color:#F5362F; text-decoration:none; background-color:#fff; }
 
-ul li { padding:0; margin:0; }
-ul li a,
-ul li b { display:block; padding:7px; border-bottom:1px solid #f8f8f8;}
+ul
+{
+	list-style-type:none;
+}
+
+ul li 
+{ 
+	padding:7px; 
+	margin:0; 
+	
+}
+
+ul li ul li
+{
+	/* handled nested bullets */
+	padding-bottom:0px;
+}
+
+ul li b 
+{ 
+	display:block; 
+	padding:7px; 
+	border-bottom:1px solid #f8f8f8;
+}
+
 ul li b { color: gray; font-weight:normal; }
 
 .page-header {  padding:0; margin:0; border:none; }
