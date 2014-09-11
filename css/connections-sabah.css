@@ -42,10 +42,11 @@ ul.events a:hover span { color:#555555; }
 
 .btn { background-color:#fefefe; font-weight:700; }
 
-@media (max-width: 360px)
+@media (max-width: 460px)
 {
 	.events li a span
 	{
 		display:block;
+		padding-bottom:7px;
 	}
 }
