@@ -24,13 +24,6 @@ ul li ul li
 	padding-bottom:0px;
 }
 
-ul li b 
-{ 
-	display:block; 
-	padding:7px; 
-	border-bottom:1px solid #f8f8f8;
-}
-
 ul li b { color: gray; font-weight:normal; }
 
 .page-header {  padding:0; margin:0; border:none; }
